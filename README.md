@@ -1,4 +1,4 @@
-   # 👋 Hi, I'm Akinsowon Gbenga 
+   # Hi, I'm Akinsowon Gbenga 
 
 <h3 align="center"> Statistics | Data Analytics | Data Science
 
@@ -30,7 +30,6 @@ I am a **Data Analyst/Data Scientist** with a strong interest in using data to s
 * 📈 Experienced in working with **data analysis, statistical methods, Excel, SQL, and Python**
 * 🤖 Interested in building machine learning models - **
 * 🌱 Continuously improving my skills in **Machine Learning and advanced analytics**
-* 📫 **Email:** [akinsgbenga15@gmail.com](mailto:akinsgbenga15@gmail.com)
 
 ---
 
