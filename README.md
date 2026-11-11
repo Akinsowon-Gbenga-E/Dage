@@ -9,14 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+meaningful+insights;Statistical+Analysis+%7C+Excel+%7C+SQL+%7C+PowerBi+%7C+Python+%7C+ML" alt="Typing SVG" />
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/akinsowon-gbenga-e/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:akinsgbenga15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
