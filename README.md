@@ -1,6 +1,6 @@
    # 👋 Hi, I'm Akinsowon Gbenga 
 
-<h3 align="center">B.Tech Statistics | Data Analytics | Data Science
+<h3 align="center"> Statistics | Data Analytics | Data Science
 
 
 <p align="center">
