@@ -22,13 +22,13 @@
 
 ## 👨🏾‍💻 About Me
 
-I am a **Statistician and Data Analyst/Data Scientist** with a strong interest in using data to solve real-world problems. My background in statistics helps me approach data with a focus on analytical reasoning, interpretation, and meaningful insights.
+I am a **Data Analyst/Data Scientist** with a strong interest in using data to solve real-world problems. My background in statistics helps me approach data with a focus on analytical reasoning, interpretation, and meaningful insights.
 
 * 🎓 **B.Tech Statistics** — Federal University of Technology, Akure
-* 📊 Interested in **Data Analytics, Data Science, Machine Learning, and Health Analytics**
+* 📊 Interested in **Data Analytics, Data Science, Machine Learning and Artificial intelligence**
 * 🏢 Completed an industrial training at the **Research and Statistics Department, Lagos State Traffic Management Authority (LASTMA)** — May to October 2025
 * 📈 Experienced in working with **data analysis, statistical methods, Excel, SQL, and Python**
-* 🤖 Interested in building machine learning models - **predictive machine learning models using health data**
+* 🤖 Interested in building machine learning models - **
 * 🌱 Continuously improving my skills in **Machine Learning and advanced analytics**
 * 📫 **Email:** [akinsgbenga15@gmail.com](mailto:akinsgbenga15@gmail.com)
 
